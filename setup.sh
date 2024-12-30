@@ -31,7 +31,7 @@ termux-setup-storage
 sleep 3s
 echo "downloading Windows 7 files"
 sleep 3s
-wget -O w7.zip "https://raw.githubusercontent.com/Roman68-roma/123321456654/w7.zip"
+wget -O w7.zip "https://dl.dropboxusercontent.com/s/iengjqhgoukoxuj/w7.zip?dl=0"
 clear
 echo "finalising setup"
 unzip w7.zip
