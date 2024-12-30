@@ -36,7 +36,7 @@ clear
 echo "finalising setup"
 unzip w7.zip
 rm w7.zip
-wget -O win7 "https://raw.githubusercontent.com/Roman68-roma/123321456654/start.sh"
+wget -O win7 "https://raw.githubusercontent.com/Roman68-roma/123321456654/main/start.sh"
 chmod +x win7
 cd /storage/FC8C-C492/Win7
 mkdir share
